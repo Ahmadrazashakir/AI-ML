@@ -25,3 +25,9 @@ https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR
 --Neural networks
 --------------------------
 Cover these topics as well. A lot of them will be mutual to the roadmap though.
+--------------------------
+https://scikit-learn.org/stable/
+--------------------------
+Head over to this site as well as you will be visiting this a lot when you start the coding part of this journey.
+Also, this site has a detailed description and mathematics behind all the functions that we use in our journey.
+---------------------------
