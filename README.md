@@ -11,17 +11,17 @@ Here is a YouTube channel. This is the best available over YouTube to understand
 https://www.youtube.com/@statquest/playlists
 https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR
 --------------------------
--Linear regression (Multivariate, univariate)
--Polynomial regression
--Lasso and ridge (L1 L2) regularization
--Maximum likelihood estimate for classification
--Logistic regression
--Multivariate classification
--Decision Trees
--Gini Index
--Principal component analysis
--K-means clustering
--Support Vector Machines
--Neural networks
+--Linear regression (Multivariate, univariate)
+--Polynomial regression
+--Lasso and ridge (L1 L2) regularization
+--Maximum likelihood estimate for classification
+--Logistic regression
+--Multivariate classification
+--Decision Trees
+--Gini Index
+--Principal component analysis
+--K-means clustering
+--Support Vector Machines
+--Neural networks
 --------------------------
 Cover these topics as well. A lot of them will be mutual to the roadmap though.
